@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Wine E-Commerce Application",
+    "imageSrc": "projects/wine-image.png",
+    "description": "Wine e-commerce solution offers an intuitive GUI for users to browse, make reservations, customize purchases, and manage their wine collection. With both an operational database and an analytical database, our application provides insights into user behavior, marketing events, revenue flows, and wine sales. It caters to wine enthusiasts and wineries, enhancing wine-related experiences and enabling informed decision-making.",
+    "skills": ["MySQL", "SQL", "Python", "PyQt5 GUI", "ERDPlus"],
+    "demos":[{
+      "title": "Analytical Demo",
+      "url": "/assets/demos/analytical-app.mp4"
+    },
+    {
+      "title": "Operational Demo",
+      "url": "/assets/demos/op-app-main.mp4"
+    }
+    ],
+    "source": "https://github.com/ManishaLagisetty/WINE-E-COMMERCE-APPLICATION"
+  },
+  {
+    "title": "A-Cross-Country-Region-wise-Analysis-of-Adolescent-Delinquency",
+    "imageSrc": "projects/cross-country-image.png",
+    "description": "This project leverages Tableau to create insightful data visualizations, providing a comprehensive overview of adolescent delinquency trends across various regions. Aims to identify and analyze key factors contributing to delinquent behaviors among adolescents, presenting the findings through interactive and visually appealing dashboards.",
+    "skills": ["Tableau", "Python", "Data Visualization"],
+    "demos": [],
+    "source": "https://github.com/ManishaLagisetty/A-Cross-Country-Region-wise-Analysis-of-Adolescent-Delinquency"
+  },
+  {
+    "title": "AI-Driven-Application-For-Diabetes-Care: Predictive-Analayis-and-Personalized-Recommendations",
+    "imageSrc": "projects/diabetes-care-image.png",
+    "description": "Project focuses on predictive analysis and personalized recommendations to enhance diabetes management. Utilizing machine learning algorithms, the project analyzes patient data to predict diabetes-related outcomes and provide tailored health recommendations. The interactive web application developed integrates predictive models for real-time data processing, offering users personalized insights and actionable health advice.",
+    "skills": ["Python", "Machine Learning", "Data Mining",  "Streamlit"],
+    "demos": [],
+    "source": "https://github.com/ManishaLagisetty/AI-Driven-Application-For-Diabetes-Care"
+  },
+  {
+    "title": "The-Learning-Agency-Lab---PII-Data-Detection",
+    "imageSrc": "projects/pii-data-detection-image.png",
+    "description": "This project utilizes modern Natural Language Processing model DistilBERT to improve the effectiveness and precision of PII detection. By harnessing this state-of-the-art technology, goal is to pave the way for generating high-quality public education datasets while preserving privacy.",
+    "skills": ["Python", "PyTorch", "Deep Learning"],
+    "demos": [],
+    "source": "https://github.com/ManishaLagisetty/PII-Data-Detection"
+  },
+  {
+    "title": "Natural-Disaster-Prediction-Using-Machine-Learning",
+    "imageSrc": "projects/ndp-image.jpg",
+    "description": "The project employs advanced machine learning techniques to forecast natural disasters with improved accuracy. By analyzing historical disaster data and environmental factors, the developed models predict occurrences of events such as earthquakes, floods, and hurricanes. The ultimate goal is to help communities and stakeholders make informed decisions to protect lives and property, demonstrating the critical role of machine learning in disaster management.",
+    "skills": ["Python", "Machine Learning"],
+    "demos": [],
+    "source": "https://github.com/ManishaLagisetty/Natural-Disaster-Prediction-Using-Machine-Learning?tab=readme-ov-file"
+  },
+  {
+    "title": "Predicting Crime and Proposing Safer Neighborhoods Using Machine Learning Models",
+    "imageSrc": "projects/crime-detection-image.jpg",
+    "description": "The project utilizes machine learning to analyze crime data and identify patterns that can predict future criminal activity. The visualizations and predictive models provide valuable insights for law enforcement and community planners, enabling them to implement proactive strategies for crime prevention. This project highlights the potential of machine learning in creating safer and more secure communities through data-driven decision-making.",
+    "skills": ["Python", "Machine Learning"],
+    "demos": [],
+    "source": "https://github.com/ManishaLagisetty/Predicting-Crime-and-Proposing-Safer-Neighborhoods-Using-Machine-Learning-Models"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python-logo.svg"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql-logo.svg"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/ml-logo.png"
+  },
+  {
+    "title": "Deep Learning",
+    "imageSrc": "skills/dl-logo.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau-logo.svg"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws-logo.svg"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure-logo.svg"
+  },
+  {
+    "title": "Snowflake",
+    "imageSrc": "skills/snowflake-logo.svg"
+  },
+  
+  {
+    "title": "Spark",
+    "imageSrc": "skills/apache-spark-logo.svg"
+  },
+  {
+    "title": "kafka",
+    "imageSrc": "skills/kafka-logo.svg"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy-logo.svg"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas-logo.svg"
+  },
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/seaborn-logo.svg"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplotlib-logo.svg"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/open-cv-logo.svg"
+  },
+  {
+    "title": "ScikitLearn",
+    "imageSrc": "skills/Scikit-learn-logo.svg"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch-logo.svg"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git-logo.svg"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github-logo.svg"
+  },
+  {
+    "title": "SQL Workbench",
+    "imageSrc": "skills/sql-workbench-logo.svg"
+  },
+  {
+    "title": "Trello",
+    "imageSrc": "skills/trello-logo.svg"
+  }
+]
