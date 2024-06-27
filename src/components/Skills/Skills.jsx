@@ -1,8 +1,6 @@
 import React from "react";
-
 import styles from "./Skills.module.css";
 import skills from "../../data/skills.json";
-import { getImageUrl } from "../../utils";
 
 export const Skills = () => {
   return (
@@ -14,7 +12,7 @@ export const Skills = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  <img src={require(`../../assets/${skill.imageSrc}`)} alt={skill.title} />
                 </div>
                 <p>{skill.title}</p>
               </div>
@@ -22,8 +20,11 @@ export const Skills = () => {
           })}
         </div>
       </div>
-      {/* <div className={styles.content}>
-      •	AWS Certified Cloud Practitioner, Microsoft Azure Fundamentals
+      {/* <div>
+        <ul>
+          <li>AWS Certified Cloud Practitioner</li>
+          <li>Microsoft Azure Fundamentals</li>
+        </ul>
       </div> */}
     </section>
   );

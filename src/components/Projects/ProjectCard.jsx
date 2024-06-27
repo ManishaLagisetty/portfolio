@@ -2,18 +2,16 @@ import React, { useState, useRef, useEffect } from "react";
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 import { Dialog } from 'primereact/dialog';
-        
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demos, source },
 }) => {
-
   const [visible, setVisible] = useState(false);
   const videoRef = useRef(null);
-  const [videoUrl, setVideoUrl] = useState('');
+  const [videoPath, setvideoName] = useState('');
 
   const playDemo = (url) => {
-    setVideoUrl(url);
+    setvideoName(require(`../../assets/demos/${url}`));
     setVisible(true);
   }
 
@@ -29,7 +27,7 @@ export const ProjectCard = ({
     <>
     <div className={styles.container}>
       <img
-        src={getImageUrl(imageSrc)}
+        src={require(`../../assets/${imageSrc}`)}
         alt={`Image of ${title}`}
         className={styles.image}
       />
@@ -59,11 +57,12 @@ export const ProjectCard = ({
         </a>
       </div>
     </div>
+
     <Dialog visible={visible} style={{ width: '50vw' }} 
     onHide={() => {if (!visible) return; setVisible(false); }}
     breakpoints={{ '960px': '75vw', '641px': '100vw' }}>
       <video className={styles.demo_video} ref={videoRef} controls>
-            <source src={videoUrl} type="video/mp4" />
+            <source src={videoPath} type="video/mp4" />
       </video>
     </Dialog>
     </>

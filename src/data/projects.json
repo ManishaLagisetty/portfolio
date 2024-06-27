@@ -7,18 +7,18 @@
     "skills": ["MySQL", "SQL", "Python", "PyQt5 GUI", "ERDPlus"],
     "demos":[{
       "title": "Analytical Demo",
-      "url": "/assets/demos/analytical-app.mp4"
+      "url": "analytical-app.mp4"
     },
     {
       "title": "Operational Demo",
-      "url": "/assets/demos/op-app-main.mp4"
+      "url": "op-app-main.mp4"
     }
     ],
     "source": "https://github.com/ManishaLagisetty/WINE-E-COMMERCE-APPLICATION"
   },
   {
     "id": 2,
-    "title": "A-Cross-Country-Region-wise-Analysis-of-Adolescent-Delinquency",
+    "title": "A Cross Country Region wise Analysis of Adolescent Delinquency",
     "imageSrc": "projects/cross-country-image.png",
     "description": "This project leverages Tableau to create insightful data visualizations, providing a comprehensive overview of adolescent delinquency trends across various regions. Aims to identify and analyze key factors contributing to delinquent behaviors among adolescents, presenting the findings through interactive and visually appealing dashboards.",
     "skills": ["Tableau", "Python", "Data Visualization"],
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "title": "AI-Driven-Application-For-Diabetes-Care: Predictive-Analayis-and-Personalized-Recommendations",
+    "title": "AI Driven Application for Diabetes Care",
     "imageSrc": "projects/diabetes-care-image.png",
     "description": "Project focuses on predictive analysis and personalized recommendations to enhance diabetes management. Utilizing machine learning algorithms, the project analyzes patient data to predict diabetes-related outcomes and provide tailored health recommendations. The interactive web application developed integrates predictive models for real-time data processing, offering users personalized insights and actionable health advice.",
     "skills": ["Python", "Machine Learning", "Data Mining",  "Streamlit"],
@@ -36,7 +36,7 @@
   },
   {
     "id": 4,
-    "title": "The-Learning-Agency-Lab---PII-Data-Detection",
+    "title": "PII Data Detection",
     "imageSrc": "projects/pii-data-detection-image.png",
     "description": "This project utilizes modern Natural Language Processing model DistilBERT to improve the effectiveness and precision of PII detection. By harnessing this state-of-the-art technology, goal is to pave the way for generating high-quality public education datasets while preserving privacy.",
     "skills": ["Python", "PyTorch", "Deep Learning"],
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "title": "Natural-Disaster-Prediction-Using-Machine-Learning",
+    "title": "Natural Disaster Prediction Using Machine Learning",
     "imageSrc": "projects/ndp-image.jpg",
     "description": "The project employs advanced machine learning techniques to forecast natural disasters with improved accuracy. By analyzing historical disaster data and environmental factors, the developed models predict occurrences of events such as earthquakes, floods, and hurricanes. The ultimate goal is to help communities and stakeholders make informed decisions to protect lives and property, demonstrating the critical role of machine learning in disaster management.",
     "skills": ["Python", "Machine Learning"],

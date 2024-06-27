@@ -1,7 +1,6 @@
 import React from "react";
-
 import styles from "./About.module.css";
-import { getImageUrl } from "../../utils";
+import aboutMeImage from "../../assets/about/aboutMeImage.jpeg"
 
 export const About = () => {
   return (
@@ -9,7 +8,7 @@ export const About = () => {
       <h2 className={styles.title}>About Me</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.jpeg")}
+          src={aboutMeImage}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -32,15 +31,6 @@ export const About = () => {
               </p>
             </div>
           </li>
-          {/* <li className={styles.aboutItem}>
-          <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
-            <div className={styles.aboutItemText}>
-              <h3 className={styles.funfactText}>Fun Fact</h3>
-              <p>
-              I love turning data into actionable insights and crafting solutions that make a difference. When I'm not working with data, you might find me exploring the latest tech trends or indulging in painting and crafts.
-              </p>
-            </div>
-          </li> */}
         </ul>
       </div>
     </section>

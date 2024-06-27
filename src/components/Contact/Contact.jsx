@@ -1,7 +1,8 @@
 import React from "react";
-
 import styles from "./Contact.module.css";
-import { getImageUrl } from "../../utils";
+import emailIcon from "../../assets/contact/emailIcon.png"
+import linkedinIcon from "../../assets/contact/linkedinIcon.png"
+import githubIcon from "../../assets/contact/githubIcon.png"
 
 export const Contact = () => {
   return (
@@ -12,19 +13,19 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
+          <img src={emailIcon} alt="Email icon" />
           <a href="mailto:manishanari6@gmail.com">manishalagisetty@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
-            src={getImageUrl("contact/linkedinIcon.png")}
+            src={linkedinIcon}
             alt="LinkedIn icon"
             onClick={() => window.open('https://www.linkedin.com/in/manishalagisetty/')}
           />
           <a href="https://www.linkedin.com/in/manishalagisetty/">linkedin.com/manishalagisetty</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" onClick={() => window.open('https://github.com/ManishaLagisetty')}/>
+          <img src={githubIcon} alt="Github icon" onClick={() => window.open('https://github.com/ManishaLagisetty')}/>
           <a href="https://github.com/ManishaLagisetty" target="_blank">github.com/ManishaLagisetty</a>
         </li>
       </ul>

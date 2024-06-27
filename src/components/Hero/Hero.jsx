@@ -1,7 +1,7 @@
 import React from "react";
-
-import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
+import styles from "./Hero.module.css"
+import myProfilePic from "../../assets/hero/myProfilePic.jpg";
+import resume from "../../data/resume.pdf";
 
 export const Hero = () => {
   return (
@@ -11,12 +11,12 @@ export const Hero = () => {
         <p className={styles.description}>
         Currently pursuing Master's in Data Analytics at San Jose State University.
         </p>
-        <a href="src/data/resume.pdf" className={styles.contactBtn} target='_blank' rel='noopener noreferrer'>
+        <a href={resume} className={styles.contactBtn} target='_blank' rel='noopener noreferrer'>
           Resume
         </a>
       </div>
-      <img
-        src="../../assets/hero/my-profle-pic.jpg"
+        <img
+        src={myProfilePic}
         alt="Hero image of me"
         className={styles.heroImg}
       />
