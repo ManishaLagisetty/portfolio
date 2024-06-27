@@ -1,5 +1,13 @@
 [
   {
+    "title": "AWS Certified",
+    "imageSrc": "skills/aws-certified-logo.png"
+  },
+  {
+    "title": "Azure Certified",
+    "imageSrc": "skills/azure-certfied-logo.png"
+  },
+  {
     "title": "Python",
     "imageSrc": "skills/python-logo.svg"
   },
