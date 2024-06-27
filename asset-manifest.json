@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.90692006.js",
-    "static/css/606.d4fd253f.chunk.css": "/portfolio/static/css/606.d4fd253f.chunk.css",
-    "static/js/606.c7d8ba2a.chunk.js": "/portfolio/static/js/606.c7d8ba2a.chunk.js",
+    "main.js": "/portfolio/static/js/main.bfb30db0.js",
+    "static/css/606.f7cb5ca5.chunk.css": "/portfolio/static/css/606.f7cb5ca5.chunk.css",
+    "static/js/606.35c1d719.chunk.js": "/portfolio/static/js/606.35c1d719.chunk.js",
     "static/js/459.cc47db68.chunk.js": "/portfolio/static/js/459.cc47db68.chunk.js",
     "static/media/analytical-app.mp4": "/portfolio/static/media/analytical-app.dadbf667f81a546ad631.mp4",
     "static/media/op-app-main.mp4": "/portfolio/static/media/op-app-main.7120b51775288eaee617.mp4",
@@ -64,12 +64,12 @@
     "static/media/tableau-logo.svg": "/portfolio/static/media/tableau-logo.be3c51045e321802db11.svg",
     "static/media/matplotlib-logo.svg": "/portfolio/static/media/matplotlib-logo.829556f27987946ea433.svg",
     "index.html": "/portfolio/index.html",
-    "main.90692006.js.map": "/portfolio/static/js/main.90692006.js.map",
-    "606.d4fd253f.chunk.css.map": "/portfolio/static/css/606.d4fd253f.chunk.css.map",
-    "606.c7d8ba2a.chunk.js.map": "/portfolio/static/js/606.c7d8ba2a.chunk.js.map",
+    "main.bfb30db0.js.map": "/portfolio/static/js/main.bfb30db0.js.map",
+    "606.f7cb5ca5.chunk.css.map": "/portfolio/static/css/606.f7cb5ca5.chunk.css.map",
+    "606.35c1d719.chunk.js.map": "/portfolio/static/js/606.35c1d719.chunk.js.map",
     "459.cc47db68.chunk.js.map": "/portfolio/static/js/459.cc47db68.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.90692006.js"
+    "static/js/main.bfb30db0.js"
   ]
 }
