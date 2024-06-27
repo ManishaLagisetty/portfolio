@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.fadec9d7.js",
+    "main.js": "/portfolio/static/js/main.90692006.js",
     "static/css/606.d4fd253f.chunk.css": "/portfolio/static/css/606.d4fd253f.chunk.css",
-    "static/js/606.20e24d11.chunk.js": "/portfolio/static/js/606.20e24d11.chunk.js",
+    "static/js/606.c7d8ba2a.chunk.js": "/portfolio/static/js/606.c7d8ba2a.chunk.js",
     "static/js/459.cc47db68.chunk.js": "/portfolio/static/js/459.cc47db68.chunk.js",
     "static/media/analytical-app.mp4": "/portfolio/static/media/analytical-app.dadbf667f81a546ad631.mp4",
     "static/media/op-app-main.mp4": "/portfolio/static/media/op-app-main.7120b51775288eaee617.mp4",
     "static/media/pii-data-detection-image.png": "/portfolio/static/media/pii-data-detection-image.22ecd17025ac229628ff.png",
     "static/media/diabetes-care-image.png": "/portfolio/static/media/diabetes-care-image.d71fbf71b918ab042685.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.f72efa13714a48041673.pdf",
     "static/media/crime-detection-image.jpg": "/portfolio/static/media/crime-detection-image.dad2dc81c55c773acb64.jpg",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.5d9ddcc4b8357ad37fd4.pdf",
     "static/media/wine-image.png": "/portfolio/static/media/wine-image.5e0beef374c268942e15.png",
     "static/media/cross-country-image.png": "/portfolio/static/media/cross-country-image.406c3541670b3d36b327.png",
     "static/media/heroImage.png": "/portfolio/static/media/heroImage.8c7bc5fa279d4678be56.png",
@@ -18,8 +18,10 @@
     "static/media/aboutImage-dummy.png": "/portfolio/static/media/aboutImage-dummy.99c678ba43ec61a6d1d8.png",
     "static/media/seaborn-logo.svg": "/portfolio/static/media/seaborn-logo.f7cb19147f444e71e635.svg",
     "static/media/hadoop-logo.svg": "/portfolio/static/media/hadoop-logo.3f9da22650bc9b378606.svg",
+    "static/media/azure-certfied-logo.png": "/portfolio/static/media/azure-certfied-logo.741e18184e60305b7608.png",
     "static/media/dl-logo.png": "/portfolio/static/media/dl-logo.275bd556dd50b2ec6060.png",
     "static/media/ml-logo.png": "/portfolio/static/media/ml-logo.948877cc4284f5eba142.png",
+    "static/media/aws-certified-logo.png": "/portfolio/static/media/aws-certified-logo.e59f9abb2c52fad10c92.png",
     "static/media/aboutImage.jpeg": "/portfolio/static/media/aboutImage.11ddd0ef9ef89d84492c.jpeg",
     "static/media/myProfilePic.jpg": "/portfolio/static/media/myProfilePic.82eb1f8bc1831e301867.jpg",
     "static/media/outfit-latin-400-normal.woff": "/portfolio/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
@@ -62,12 +64,12 @@
     "static/media/tableau-logo.svg": "/portfolio/static/media/tableau-logo.be3c51045e321802db11.svg",
     "static/media/matplotlib-logo.svg": "/portfolio/static/media/matplotlib-logo.829556f27987946ea433.svg",
     "index.html": "/portfolio/index.html",
-    "main.fadec9d7.js.map": "/portfolio/static/js/main.fadec9d7.js.map",
+    "main.90692006.js.map": "/portfolio/static/js/main.90692006.js.map",
     "606.d4fd253f.chunk.css.map": "/portfolio/static/css/606.d4fd253f.chunk.css.map",
-    "606.20e24d11.chunk.js.map": "/portfolio/static/js/606.20e24d11.chunk.js.map",
+    "606.c7d8ba2a.chunk.js.map": "/portfolio/static/js/606.c7d8ba2a.chunk.js.map",
     "459.cc47db68.chunk.js.map": "/portfolio/static/js/459.cc47db68.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.fadec9d7.js"
+    "static/js/main.90692006.js"
   ]
 }
