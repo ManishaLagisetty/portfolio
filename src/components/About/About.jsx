@@ -32,15 +32,15 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
-          {/* <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" /> */}
+          {/* <li className={styles.aboutItem}>
+          <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3 className={styles.funfactText}>Fun Fact</h3>
               <p>
               I love turning data into actionable insights and crafting solutions that make a difference. When I'm not working with data, you might find me exploring the latest tech trends or indulging in painting and crafts.
               </p>
             </div>
-          </li>
+          </li> */}
         </ul>
       </div>
     </section>
