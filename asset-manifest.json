@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.9bae0bc4.js",
-    "static/css/931.af33ce1a.chunk.css": "/portfolio/static/css/931.af33ce1a.chunk.css",
-    "static/js/931.252b4749.chunk.js": "/portfolio/static/js/931.252b4749.chunk.js",
+    "main.js": "/portfolio/static/js/main.ce851fa4.js",
+    "static/css/931.fef35205.chunk.css": "/portfolio/static/css/931.fef35205.chunk.css",
+    "static/js/931.0d465a20.chunk.js": "/portfolio/static/js/931.0d465a20.chunk.js",
     "static/js/459.8e0d023b.chunk.js": "/portfolio/static/js/459.8e0d023b.chunk.js",
-    "static/media/my-profile-pic.jpg": "/portfolio/static/media/my-profile-pic.82eb1f8bc1831e301867.jpg",
     "static/media/outfit-latin-400-normal.woff": "/portfolio/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
     "static/media/roboto-latin-400-normal.woff2": "/portfolio/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/portfolio/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
@@ -24,12 +23,12 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/portfolio/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/portfolio/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/portfolio/index.html",
-    "main.9bae0bc4.js.map": "/portfolio/static/js/main.9bae0bc4.js.map",
-    "931.af33ce1a.chunk.css.map": "/portfolio/static/css/931.af33ce1a.chunk.css.map",
-    "931.252b4749.chunk.js.map": "/portfolio/static/js/931.252b4749.chunk.js.map",
+    "main.ce851fa4.js.map": "/portfolio/static/js/main.ce851fa4.js.map",
+    "931.fef35205.chunk.css.map": "/portfolio/static/css/931.fef35205.chunk.css.map",
+    "931.0d465a20.chunk.js.map": "/portfolio/static/js/931.0d465a20.chunk.js.map",
     "459.8e0d023b.chunk.js.map": "/portfolio/static/js/459.8e0d023b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9bae0bc4.js"
+    "static/js/main.ce851fa4.js"
   ]
 }
