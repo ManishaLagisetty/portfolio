@@ -16,7 +16,7 @@ export const Experience = () => {
                   alt={`${historyItem.organisation} Logo`}
                 />
                 <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>
+                  <h3>{`${historyItem.role} (${historyItem.organisation})`}</h3>
                   {/* <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p> */}
                   <p>Analyzed complex healthcare data to extract key insights and implemented SQL-based strategies to optimize operations. Developed KPIs and dashboards to enhance business performance and collaborated with cross-functional teams for improved outcomes.</p>
                   <ul>
