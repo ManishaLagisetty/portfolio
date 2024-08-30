@@ -4,6 +4,14 @@ import myProfilePic from "../../assets/hero/myProfilePic.jpg";
 import resume from "../../data/resume.pdf";
 
 export const Hero = () => {
+
+  const onResumeClick = () => {
+    const resumeWindow = window.open(resume, "_blank")
+    setTimeout(function () {
+      resumeWindow.document.title = "Manisha-Resume";
+  }, 100);
+  }
+  
   return (
     <section className={styles.container}>
       <div className={styles.content}>
@@ -11,7 +19,7 @@ export const Hero = () => {
         <p className={styles.description}>
         Currently pursuing Master's in Data Analytics at San Jose State University.
         </p>
-        <a href={resume} className={styles.contactBtn} target='_blank' rel='noopener noreferrer'>
+        <a className={styles.contactBtn} target='_blank' rel='noopener noreferrer' onClick={onResumeClick}>
           Resume
         </a>
       </div>
