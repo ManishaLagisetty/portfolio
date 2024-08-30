@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.bfb30db0.js",
-    "static/css/606.f7cb5ca5.chunk.css": "/portfolio/static/css/606.f7cb5ca5.chunk.css",
-    "static/js/606.35c1d719.chunk.js": "/portfolio/static/js/606.35c1d719.chunk.js",
+    "main.js": "/portfolio/static/js/main.7666158a.js",
+    "static/css/606.4cbde570.chunk.css": "/portfolio/static/css/606.4cbde570.chunk.css",
+    "static/js/606.cc9a410e.chunk.js": "/portfolio/static/js/606.cc9a410e.chunk.js",
     "static/js/459.cc47db68.chunk.js": "/portfolio/static/js/459.cc47db68.chunk.js",
     "static/media/analytical-app.mp4": "/portfolio/static/media/analytical-app.dadbf667f81a546ad631.mp4",
     "static/media/op-app-main.mp4": "/portfolio/static/media/op-app-main.7120b51775288eaee617.mp4",
     "static/media/pii-data-detection-image.png": "/portfolio/static/media/pii-data-detection-image.22ecd17025ac229628ff.png",
     "static/media/diabetes-care-image.png": "/portfolio/static/media/diabetes-care-image.d71fbf71b918ab042685.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.f72efa13714a48041673.pdf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.4adb67e0d187603139f0.pdf",
     "static/media/crime-detection-image.jpg": "/portfolio/static/media/crime-detection-image.dad2dc81c55c773acb64.jpg",
     "static/media/wine-image.png": "/portfolio/static/media/wine-image.5e0beef374c268942e15.png",
     "static/media/cross-country-image.png": "/portfolio/static/media/cross-country-image.406c3541670b3d36b327.png",
@@ -64,12 +64,12 @@
     "static/media/tableau-logo.svg": "/portfolio/static/media/tableau-logo.be3c51045e321802db11.svg",
     "static/media/matplotlib-logo.svg": "/portfolio/static/media/matplotlib-logo.829556f27987946ea433.svg",
     "index.html": "/portfolio/index.html",
-    "main.bfb30db0.js.map": "/portfolio/static/js/main.bfb30db0.js.map",
-    "606.f7cb5ca5.chunk.css.map": "/portfolio/static/css/606.f7cb5ca5.chunk.css.map",
-    "606.35c1d719.chunk.js.map": "/portfolio/static/js/606.35c1d719.chunk.js.map",
+    "main.7666158a.js.map": "/portfolio/static/js/main.7666158a.js.map",
+    "606.4cbde570.chunk.css.map": "/portfolio/static/css/606.4cbde570.chunk.css.map",
+    "606.cc9a410e.chunk.js.map": "/portfolio/static/js/606.cc9a410e.chunk.js.map",
     "459.cc47db68.chunk.js.map": "/portfolio/static/js/459.cc47db68.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bfb30db0.js"
+    "static/js/main.7666158a.js"
   ]
 }
