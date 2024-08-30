@@ -8,10 +8,10 @@ export const Hero = () => {
   const onResumeClick = () => {
     const resumeWindow = window.open(resume, "_blank")
     setTimeout(function () {
-      resumeWindow.document.title = "Manisha-Resume";
+      resumeWindow.document.title = "Manisha-Lagisetty-Resume";
   }, 100);
   }
-  
+
   return (
     <section className={styles.container}>
       <div className={styles.content}>
