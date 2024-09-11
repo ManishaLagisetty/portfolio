@@ -17,7 +17,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Manisha Lagisetty</h1>
         <p className={styles.description}>
-        Currently pursuing Master's in Data Analytics at San Jose State University.
+        Master's in Data Science at San Jose State University.
         </p>
         <a className={styles.contactBtn} target='_blank' rel='noopener noreferrer' onClick={onResumeClick}>
           Resume

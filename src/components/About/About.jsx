@@ -18,7 +18,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               {/* <h3>Frontend Developer</h3> */}
               <p>
-              A passionate data analyst and AI enthusiast with a knack for transforming complex data into actionable insights. I have a strong background in healthcare data analysis, predictive modeling, and developing interactive dashboards. Driven by a desire to leverage technology for impactful solutions, I actively seek opportunities to apply my expertise to real-world applications.
+              A passionate AI enthusiast, data science professional, and data analyst with extensive experience in machine learning and deep learning technologies, from building predictive models to deploying advanced data-driven solutions. I have a strong track record of designing and optimizing data pipelines and creating interactive dashboards to deliver actionable insights. Additionally, I bring a solid background in healthcare data analysis, where I have applied advanced analytics to drive decision-making and improve outcomes. Driven by a desire to leverage technology for impactful solutions, I actively seek opportunities to apply my expertise to real-world applications.
               </p>
             </div>
           </li>

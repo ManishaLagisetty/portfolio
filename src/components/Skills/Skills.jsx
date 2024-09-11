@@ -14,7 +14,7 @@ export const Skills = () => {
                 <div className={styles.skillImageContainer}>
                   <img src={require(`../../assets/${skill.imageSrc}`)} alt={skill.title} />
                 </div>
-                <p>{skill.title}</p>
+                <p style={{color: 'black'}}>{skill.title}</p>
               </div>
             );
           })}
