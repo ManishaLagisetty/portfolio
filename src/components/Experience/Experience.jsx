@@ -18,7 +18,7 @@ export const Experience = () => {
                 <div className={styles.historyItemDetails}>
                   <h3>{`${historyItem.role} (${historyItem.organisation})`}</h3>
                   {/* <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p> */}
-                  <p>Analyzed complex healthcare data to extract key insights and implemented SQL-based strategies to optimize operations. Developed KPIs and dashboards to enhance business performance and collaborated with cross-functional teams for improved outcomes.</p>
+                  <p>Analyzed intricate healthcare data to derive actionable insights and implemented SQL-based solutions, Python scripts, and ETL processes to streamline operations. Created KPIs and dashboards to drive business performance and collaborated with cross-functional teams to achieve enhanced results.</p>
                   <ul>
                     {historyItem.experiences.map((experience, id) => {
                       return <li key={id}>{experience}</li>;
