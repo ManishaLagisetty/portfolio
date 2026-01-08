@@ -1,10 +1,20 @@
 [
   {
+    "role": "Senior Data Analyst",
+    "organisation": "Arkos Health, Inc.",
+    "startDate": "Febraury, 2025",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "arkos_health_logo.svg",
+    "description": "Leveraged multi-source healthcare data to generate actionable insights supporting member engagement, care coordination, and performance tracking. Built automated dashboards in Tableau and Excel, improved data accuracy through QA processes, and collaborated with cross-functional teams to develop data-driven outreach strategies—resulting in a 45% increase in engagement effectiveness." 
+  },
+  {
     "role": "Data Analyst",
     "organisation": "Cognizant",
     "startDate": "October, 2018",
     "endDate": "June, 2022",
     "experiences": [],
-    "imageSrc": "cts_logo.svg"
+    "imageSrc": "cts_logo.svg",
+    "description": "Analyzed intricate healthcare data to derive actionable insights and implemented SQL-based solutions, Python scripts, and ETL processes to streamline operations. Created KPIs and dashboards to drive business performance and collaborated with cross-functional teams to achieve enhanced results."
   }
 ]
